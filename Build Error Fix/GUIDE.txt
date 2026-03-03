@@ -1,0 +1,1 @@
+If you get errors when building your game go to Plugins > Android and drag these in them, if you don't see those folders then just make them

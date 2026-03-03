@@ -1,0 +1,38 @@
+buildscript {
+    repositories {
+        google()
+        jcenter()
+        flatDir(dirs: 'libs')
+    }
+    
+    dependencies {
+        classpath "com.android.tools.build:gradle:3.6.0"
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    compileSdkVersion 34
+    buildToolsVersion '34.0.0'
+    defaultConfig {
+        targetSdkVersion 34
+    }
+}
+dependencies {
+        implementation 'androidx.appcompat:appcompat:1.5.1'
+        implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+        implementation 'androidx.security:security-crypto:1.0.0'
+        implementation 'androidx.browser:browser:1.4.0'
+    //api fileTree(dir: 'libs', include: ['*.aar'])
+}

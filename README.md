@@ -17,5 +17,6 @@ https://networking.katzulabs.com/discord
 Remember That KatzuLabsNetworking is still in beta!!!
 
 Anything Related To KatzuLabsNetworking was created by Ava
+
 Discord: @ava_kitti
-GitHub: @KatzuLabs
+GitHub: @AvaX3

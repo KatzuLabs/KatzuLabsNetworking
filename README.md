@@ -11,9 +11,9 @@ Oculus/Meta: https://assetstore.unity.com/packages/tools/integration/meta-xr-all
 
 For Help, Tutorials, API, Questions, Scripts, or anything:
 
-https://networking.katzulabs.com/
-https://www.youtube.com/@KatzuLabs
-https://networking.katzulabs.com/discord
+~ https://networking.katzulabs.com/
+~ https://www.youtube.com/@KatzuLabs
+~ https://networking.katzulabs.com/discord
 
 Remember That KatzuLabsNetworking is still in beta!!!
 

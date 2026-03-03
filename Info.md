@@ -10,6 +10,7 @@ https://github.com/EOS-Contrib/eos_plugin_for_unity/releases/tag/v6.0.0
 Oculus/Meta: https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657
 
 For Help, Tutorials, API, Questions, Scripts, or anything:
+
 https://networking.katzulabs.com/
 https://www.youtube.com/@KatzuLabs
 https://networking.katzulabs.com/discord
